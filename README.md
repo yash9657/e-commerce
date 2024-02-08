@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an ecommerce application with frontend using React JS, Tailwind CSS using a free content management service and payment gateway using stripe.
+
 ## Available Scripts
 
 In the project directory, you can run:
